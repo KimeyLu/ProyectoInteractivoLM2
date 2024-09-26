@@ -1,0 +1,1 @@
+Este es un archivo de ejemplo, Enumerado en versionado tradicional. https://es.wikipedia.org/wiki/Versionado_de_software
