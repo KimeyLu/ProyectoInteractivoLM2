@@ -1,5 +1,5 @@
 # ProyectoInteractivoLM2
-### Repositorio del Proyecto Interactivo hecho por el grupo Papas Fritas, para la materia Lenguaje Multimedia 2 / Lenguaje de las Narrativas Interactivas.
+## Repositorio del Proyecto Interactivo hecho por el grupo Papas Fritas, para la materia Lenguaje Multimedia 2 / Lenguaje de las Narrativas Interactivas.
 
 Si vas a actualizar un repositorio en GitHub para que el archivo pese menos asegurate de eliminar las carpetas/archivos "Logs", "obj", "Temp", "Build", "Library", ".sln", "Assembly-Csharp" (El editor reinstalará automaticamente todas esos archivos), asegurate de que el contenido de la carpeta del proyecto se vea asi:
 
