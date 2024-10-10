@@ -66,6 +66,15 @@ crashlytics-build.properties
  
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Ignorar archivos grandes de la carpeta Assets
+*.png
+*.jpg
+*.mp4
+*.wav
+*.fbx
+*.psd
+
  
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
